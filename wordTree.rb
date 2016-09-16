@@ -9,7 +9,6 @@ class WordTree
 
   def learn(words, response)
     # need to add check to not learn anything with response keyword
-    response = response.concat(" ")
     words=words.split(/\W+/)
     tree = @wordTree
     words.each do |word|
