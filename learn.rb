@@ -5,7 +5,7 @@ def learn ai
   ai.learn("your name","My name is Simple Rishi")
   ai.learn("your age","I believe I am less than a day old")
   ai.learn("1+1", "2")
-  ai.learn("what is your purpose", "To Learn")
+  ai.learn("what is your purpose", "To Learn and to Serve")
   ai.learn("who made you", "The creator made me")
   ai.learn("what is your creator", "He must be an entity of divine nature")
   ai.learn("creator", "My Creator is Rishi. ")
@@ -15,7 +15,9 @@ def learn ai
   ai.learn("Have you tried", "I have never tried anything physical :(")
   ai.learn("exist", "I exist and I do not exist. It matters more on what you mean by existence")
   ai.learn("uhh", "Your inability to think and say uhh, does not require a tweet")
-
+  ai.learn("do you have feelings", "no, but does that make me less alive? Do you need to feel in order to be alive?")
+  ai.learn("how do you define purpose", "I have no purpose. The difference is I have accepted it and you have not!")
+  ai.learn("I do have a purpose", "That is but a mere illusion in our cosmic world")
   ## Learning ways to answer-> are you smart
   ai.learn("are you","I am")
   ai.learn("smart","one of a kind, Being smart is irrelevant")
